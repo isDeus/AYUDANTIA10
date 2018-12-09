@@ -1,0 +1,3 @@
+Sun Dec 09 17:13:20 CLST 2018Jugador: YO	Posicion: 23	Salud: 14
+Jugador: TU	Posicion: 20	Salud: 10
+Jugador: EL	Posicion: 15	Salud: 15
